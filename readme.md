@@ -74,11 +74,11 @@ streamlit==1.38.0
 4. Ask questions related to the content of the PDF file, and the chatbot will provide answers based on the information in the document.
 5. Enjoy interacting with the RAG PDF Chatbot!
 
-📝 **Note**: The chatbot is still in development, and improvements are being made to enhance its performance and capabilities. If you encounter any issues or have suggestions for improvement, please feel free to open an issue submit a pull request, or contact me on LinkedIn.
 
-👨‍💻 **Developed by**: [Mesut Duman](https://www.linkedin.com/in/mesut-duman/)
 
-📄 **License**: This project is licensed under the Apache License 2.0.
+
+
+
 
 ### 📺 **Demo Video**
 
